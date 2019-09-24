@@ -18,5 +18,4 @@ Feel free to edit my script as you like, Its open source, and should be open sou
 You are not allowed to implement and sell it, This script should always be free of charge!
 
 
-,
-Joacom
+-=Joacom=-
