@@ -16,3 +16,7 @@ Create Gallery folder like this /var/www/html/xray/66.01.00/gallery-images
 
 Feel free to edit my script as you like, Its open source, and should be open source forever... if you copy it and use it for free its great!
 You are not allowed to implement and sell it, This script should always be free of charge!
+
+
+,
+Joacom
